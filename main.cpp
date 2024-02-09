@@ -9,7 +9,6 @@ const int MOD = 1e9 + 7;
 const int INF = LLONG_MAX >> 1;
 
 int32_t main() {
-
 	SPEED
 	
 	
